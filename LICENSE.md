@@ -1,4 +1,4 @@
-
+Enhance iStat Menus for macOS with automatic Utility for iStat Menus for macOS - app-uninstaller and custom-actions, the #1 utility. Includes app-uninstaller and custom-actions
 
 
 
